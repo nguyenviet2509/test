@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-env-test",
+  "version": "1.0.0",
+  "description": "Test project for Cloud Panel env var injection (Node.js + Express)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
